@@ -1,0 +1,16 @@
+{
+  "ratings": 7560,
+  "train": 6120,
+  "validation": 720,
+  "test": 720,
+  "selected_epoch": 63,
+  "baseline_selected_epoch": 1,
+  "matrix_factorization": {
+    "rmse": 0.2412453743611459,
+    "mae": 0.185309842602173
+  },
+  "bias_baseline": {
+    "rmse": 0.8396464095717556,
+    "mae": 0.6426708485690631
+  }
+}

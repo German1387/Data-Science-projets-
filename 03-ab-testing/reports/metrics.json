@@ -1,0 +1,19 @@
+{
+  "n_users": 6000,
+  "treatment_users": 2953,
+  "sample_ratio_exact_p": 0.2298939060181867,
+  "raw_revenue_effect": 1.722907903766398,
+  "raw_95pct_ci": [
+    0.7986541520644331,
+    2.596962578538105
+  ],
+  "cuped_revenue_effect": 1.6066668208383454,
+  "cuped_95pct_ci": [
+    0.9942209693238451,
+    2.1490770534371664
+  ],
+  "cuped_theta": 0.63488231251788,
+  "bootstrap_variance_reduction": 0.5705935729654759,
+  "raw_permutation_p": 0.0004997501249375312,
+  "simulation_latent_additive_effect": 2.0
+}

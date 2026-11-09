@@ -1,0 +1,281 @@
+text,label,family,split,mixed_intent,prediction,confidence,auto_route
+can someone check primary request billing invoice payment needs a refund please investigate  reference 85641,billing,billing-5,test,False,billing,0.9964642869497072,True
+can someone check primary request billing invoice payment needs a refund also app freezes with a technical error today  reference 62718,billing,billing-5,test,True,billing,0.5631446446750282,False
+hello support primary request billing invoice payment needs a refund also courier shipping tracking shows no package since yesterday account reference 90309,billing,billing-5,test,True,delivery,0.5563825911433611,False
+please help primary request billing invoice payment needs a refund today account reference 25852,billing,billing-5,test,False,billing,0.9909824663409778,True
+please help primary request billing invoice payment needs a refund since yesterday payment reference 40943,billing,billing-5,test,False,billing,0.997551290878507,True
+hello support primary request billing invoice payment needs a refund since yesterday  reference 33832,billing,billing-5,test,False,billing,0.9960728978330712,True
+can someone check primary request billing invoice payment needs a refund for the second time order reference 12908,billing,billing-5,test,False,billing,0.9983791840805295,True
+can someone check primary request billing invoice payment needs a refund also reset login password for account access for the second time  reference 20379,billing,billing-5,test,True,account,0.7997245007852826,True
+hello support primary request billing invoice payment needs a refund for the second time order reference 96635,billing,billing-5,test,False,billing,0.998392763380105,True
+can someone check primary request billing invoice payment needs a refund since yesterday app reference 99699,billing,billing-5,test,False,billing,0.9949578342503168,True
+hello support primary request billing invoice payment needs a refund since yesterday account reference 52155,billing,billing-5,test,False,billing,0.9945788884035502,True
+can someone check primary request billing invoice payment needs a refund since yesterday order reference 25330,billing,billing-5,test,False,billing,0.9919856301189576,True
+can someone check primary request billing invoice payment needs a refund please investigate account reference 36080,billing,billing-5,test,False,billing,0.9946857802371495,True
+can someone check primary request billing invoice payment needs a refund please investigate account reference 62627,billing,billing-5,test,False,billing,0.9946857802371495,True
+hello support primary request billing invoice payment needs a refund also reset login password for account access since yesterday payment reference 98368,billing,billing-5,test,True,billing,0.551657599646695,False
+please help primary request billing invoice payment needs a refund please investigate app reference 42280,billing,billing-5,test,False,billing,0.9938026769545099,True
+urgent request primary request billing invoice payment needs a refund today order reference 44113,billing,billing-5,test,False,billing,0.9913755966495611,True
+can someone check primary request billing invoice payment needs a refund please investigate app reference 39633,billing,billing-5,test,False,billing,0.9962037927974309,True
+hello support primary request billing invoice payment needs a refund today app reference 36209,billing,billing-5,test,False,billing,0.9959716523269085,True
+urgent request primary request billing invoice payment needs a refund today order reference 41115,billing,billing-5,test,False,billing,0.9913755966495611,True
+please help primary request billing invoice payment needs a refund also reset login password for account access today order reference 55057,billing,billing-5,test,True,account,0.8684716821464891,True
+urgent request primary request billing invoice payment needs a refund also courier shipping tracking shows no package please investigate account reference 60639,billing,billing-5,test,True,delivery,0.5604394286740281,False
+can someone check primary request billing invoice payment needs a refund please investigate order reference 97358,billing,billing-5,test,False,billing,0.9943333626688595,True
+can someone check primary request billing invoice payment needs a refund since yesterday order reference 14731,billing,billing-5,test,False,billing,0.9919856301189576,True
+urgent request primary request billing invoice payment needs a refund please investigate app reference 92918,billing,billing-5,test,False,billing,0.9953684873378402,True
+urgent request primary request billing invoice payment needs a refund also courier shipping tracking shows no package please investigate  reference 71237,billing,billing-5,test,True,billing,0.5053124955567129,False
+can someone check primary request billing invoice payment needs a refund for the second time  reference 23592,billing,billing-5,test,False,billing,0.9988052900230333,True
+can someone check primary request billing invoice payment needs a refund since yesterday order reference 10492,billing,billing-5,test,False,billing,0.9919856301189576,True
+urgent request primary request billing invoice payment needs a refund please investigate app reference 98953,billing,billing-5,test,False,billing,0.9953684873378402,True
+hello support primary request billing invoice payment needs a refund also courier shipping tracking shows no package please investigate order reference 24452,billing,billing-5,test,True,delivery,0.528085631613751,False
+hello support primary request billing invoice payment needs a refund please investigate  reference 31663,billing,billing-5,test,False,billing,0.9969170683651578,True
+can someone check primary request billing invoice payment needs a refund since yesterday app reference 26884,billing,billing-5,test,False,billing,0.9949578342503168,True
+can someone check primary request billing invoice payment needs a refund for the second time app reference 20555,billing,billing-5,test,False,billing,0.9985663724863525,True
+please help primary request billing invoice payment needs a refund today app reference 60794,billing,billing-5,test,False,billing,0.9929418816699135,True
+urgent request primary request billing invoice payment needs a refund please investigate payment reference 94144,billing,billing-5,test,False,billing,0.9984956847053678,True
+hello support primary request billing invoice payment needs a refund also courier shipping tracking shows no package since yesterday order reference 81526,billing,billing-5,test,True,delivery,0.6294998561211091,False
+please help primary request billing invoice payment needs a refund please investigate  reference 75744,billing,billing-5,test,False,billing,0.9945223896857184,True
+can someone check primary request billing invoice payment needs a refund since yesterday  reference 51730,billing,billing-5,test,False,billing,0.995246572361876,True
+hello support primary request billing invoice payment needs a refund for the second time order reference 20223,billing,billing-5,test,False,billing,0.998392763380105,True
+hello support primary request billing invoice payment needs a refund also app freezes with a technical error please investigate payment reference 51554,billing,billing-5,test,True,billing,0.645659877632341,False
+can someone check primary request billing invoice payment needs a refund also reset login password for account access for the second time app reference 61680,billing,billing-5,test,True,account,0.7780722831115079,True
+please help primary request billing invoice payment needs a refund also app freezes with a technical error today account reference 95257,billing,billing-5,test,True,technical,0.7337699895502782,False
+please help primary request billing invoice payment needs a refund today account reference 32064,billing,billing-5,test,False,billing,0.9909824663409778,True
+please help primary request billing invoice payment needs a refund for the second time payment reference 67080,billing,billing-5,test,False,billing,0.9991700497128424,True
+hello support primary request billing invoice payment needs a refund also app freezes with a technical error today  reference 28401,billing,billing-5,test,True,technical,0.5676284393954139,False
+urgent request primary request billing invoice payment needs a refund today app reference 13635,billing,billing-5,test,False,billing,0.9943838007522624,True
+please help primary request billing invoice payment needs a refund for the second time order reference 44983,billing,billing-5,test,False,billing,0.9970719234169998,True
+please help primary request billing invoice payment needs a refund today app reference 20575,billing,billing-5,test,False,billing,0.9929418816699135,True
+hello support primary request billing invoice payment needs a refund also courier shipping tracking shows no package since yesterday  reference 74994,billing,billing-5,test,True,billing,0.5094317417295061,False
+urgent request primary request billing invoice payment needs a refund since yesterday app reference 45750,billing,billing-5,test,False,billing,0.993885640824524,True
+can someone check primary request billing invoice payment needs a refund today app reference 35990,billing,billing-5,test,False,billing,0.9953858827718759,True
+hello support primary request billing invoice payment needs a refund also reset login password for account access please investigate  reference 96792,billing,billing-5,test,True,account,0.8538124276615098,True
+please help primary request billing invoice payment needs a refund since yesterday payment reference 58670,billing,billing-5,test,False,billing,0.997551290878507,True
+can someone check primary request billing invoice payment needs a refund since yesterday app reference 94903,billing,billing-5,test,False,billing,0.9949578342503168,True
+urgent request primary request billing invoice payment needs a refund since yesterday app reference 44925,billing,billing-5,test,False,billing,0.993885640824524,True
+urgent request primary request billing invoice payment needs a refund please investigate app reference 73434,billing,billing-5,test,False,billing,0.9953684873378402,True
+can someone check primary request billing invoice payment needs a refund today order reference 35192,billing,billing-5,test,False,billing,0.9927861762446317,True
+hello support primary request billing invoice payment needs a refund also courier shipping tracking shows no package since yesterday account reference 16969,billing,billing-5,test,True,delivery,0.5563825911433611,False
+urgent request primary request billing invoice payment needs a refund please investigate payment reference 85163,billing,billing-5,test,False,billing,0.9984956847053678,True
+urgent request primary request billing invoice payment needs a refund also courier shipping tracking shows no package since yesterday  reference 28523,billing,billing-5,test,True,delivery,0.5978024069391084,False
+hello support primary request billing invoice payment needs a refund please investigate app reference 69783,billing,billing-5,test,False,billing,0.9965213605530608,True
+can someone check primary request billing invoice payment needs a refund also app freezes with a technical error please investigate app reference 14420,billing,billing-5,test,True,technical,0.6037042630989183,False
+hello support primary request billing invoice payment needs a refund also reset login password for account access since yesterday app reference 23373,billing,billing-5,test,True,account,0.7203591872712808,False
+urgent request primary request billing invoice payment needs a refund today app reference 66338,billing,billing-5,test,False,billing,0.9943838007522624,True
+can someone check primary request billing invoice payment needs a refund since yesterday order reference 68669,billing,billing-5,test,False,billing,0.9919856301189576,True
+can someone check primary request billing invoice payment needs a refund for the second time app reference 18152,billing,billing-5,test,False,billing,0.9985663724863525,True
+hello support primary request billing invoice payment needs a refund since yesterday order reference 86444,billing,billing-5,test,False,billing,0.9935586763880102,True
+hello support primary request billing invoice payment needs a refund today payment reference 26452,billing,billing-5,test,False,billing,0.9986999716407621,True
+urgent request primary request billing invoice payment needs a refund today  reference 24588,billing,billing-5,test,False,billing,0.9948100140003323,True
+hello support primary request billing invoice payment needs a refund please investigate account reference 25198,billing,billing-5,test,False,billing,0.9953147099442929,True
+please help primary request reset login password for account access also courier shipping tracking shows no package since yesterday app reference 94934,account,account-5,test,True,account,0.7520279066975961,False
+hello support primary request reset login password for account access please investigate app reference 57946,account,account-5,test,False,account,0.9998795611792258,True
+please help primary request reset login password for account access today payment reference 11956,account,account-5,test,False,account,0.9997656481321401,True
+hello support primary request reset login password for account access also app freezes with a technical error for the second time app reference 25335,account,account-5,test,True,account,0.8057657025932662,True
+urgent request primary request reset login password for account access also courier shipping tracking shows no package for the second time app reference 37063,account,account-5,test,True,account,0.9361410919940896,True
+please help primary request reset login password for account access please investigate  reference 30375,account,account-5,test,False,account,0.9999439324641988,True
+hello support primary request reset login password for account access also courier shipping tracking shows no package for the second time order reference 48047,account,account-5,test,True,account,0.935163798733526,True
+urgent request primary request reset login password for account access for the second time order reference 41974,account,account-5,test,False,account,0.9998584599472633,True
+urgent request primary request reset login password for account access today order reference 85862,account,account-5,test,False,account,0.9997685684905925,True
+can someone check primary request reset login password for account access today  reference 90360,account,account-5,test,False,account,0.9998490224410829,True
+can someone check primary request reset login password for account access since yesterday payment reference 13052,account,account-5,test,False,account,0.9995037777881711,True
+hello support primary request reset login password for account access for the second time account reference 26336,account,account-5,test,False,account,0.9999605289896631,True
+please help primary request reset login password for account access for the second time account reference 99084,account,account-5,test,False,account,0.9999754357210286,True
+please help primary request reset login password for account access also billing invoice payment needs a refund today app reference 78832,account,account-5,test,True,account,0.8634374760829627,True
+can someone check primary request reset login password for account access also courier shipping tracking shows no package today order reference 79698,account,account-5,test,True,account,0.6107909363269125,False
+please help primary request reset login password for account access also courier shipping tracking shows no package please investigate order reference 30276,account,account-5,test,True,account,0.8486998869186233,True
+please help primary request reset login password for account access also courier shipping tracking shows no package for the second time order reference 61051,account,account-5,test,True,account,0.947162457994034,True
+can someone check primary request reset login password for account access today payment reference 72857,account,account-5,test,False,account,0.9995833026721073,True
+urgent request primary request reset login password for account access for the second time order reference 77598,account,account-5,test,False,account,0.9998584599472633,True
+can someone check primary request reset login password for account access for the second time  reference 16520,account,account-5,test,False,account,0.9998923064877964,True
+urgent request primary request reset login password for account access please investigate order reference 14992,account,account-5,test,False,account,0.9998748005013641,True
+can someone check primary request reset login password for account access also billing invoice payment needs a refund please investigate app reference 81955,account,account-5,test,True,account,0.8377229013183387,True
+please help primary request reset login password for account access please investigate  reference 64204,account,account-5,test,False,account,0.9999439324641988,True
+hello support primary request reset login password for account access for the second time payment reference 33376,account,account-5,test,False,account,0.9996477661311843,True
+urgent request primary request reset login password for account access also billing invoice payment needs a refund since yesterday order reference 18328,account,account-5,test,True,account,0.7215478824677493,False
+urgent request primary request reset login password for account access also courier shipping tracking shows no package since yesterday account reference 72268,account,account-5,test,True,account,0.8181057966049191,True
+please help primary request reset login password for account access for the second time payment reference 50848,account,account-5,test,False,account,0.999809686043517,True
+hello support primary request reset login password for account access also app freezes with a technical error for the second time app reference 76584,account,account-5,test,True,account,0.8057657025932662,True
+please help primary request reset login password for account access please investigate app reference 57500,account,account-5,test,False,account,0.9999197204082739,True
+urgent request primary request reset login password for account access please investigate account reference 79334,account,account-5,test,False,account,0.9999664524167149,True
+hello support primary request reset login password for account access also app freezes with a technical error please investigate  reference 50604,account,account-5,test,True,account,0.9348641062615558,True
+urgent request primary request reset login password for account access also app freezes with a technical error for the second time  reference 39589,account,account-5,test,True,account,0.8975979699967597,True
+urgent request primary request reset login password for account access also billing invoice payment needs a refund for the second time payment reference 11968,account,account-5,test,True,account,0.5138473656838997,False
+please help primary request reset login password for account access since yesterday app reference 13595,account,account-5,test,False,account,0.9998415595788488,True
+hello support primary request reset login password for account access also app freezes with a technical error since yesterday order reference 78990,account,account-5,test,True,account,0.8939068502424554,True
+urgent request primary request reset login password for account access today order reference 35902,account,account-5,test,False,account,0.9997685684905925,True
+urgent request primary request reset login password for account access for the second time payment reference 97671,account,account-5,test,False,account,0.9996352300076712,True
+can someone check primary request reset login password for account access please investigate payment reference 29799,account,account-5,test,False,account,0.9997590998825007,True
+can someone check primary request reset login password for account access also courier shipping tracking shows no package please investigate order reference 87442,account,account-5,test,True,account,0.780594677684633,True
+hello support primary request reset login password for account access for the second time order reference 71545,account,account-5,test,False,account,0.9998650468604086,True
+hello support primary request reset login password for account access also app freezes with a technical error for the second time app reference 57052,account,account-5,test,True,account,0.8057657025932662,True
+hello support primary request reset login password for account access for the second time  reference 48969,account,account-5,test,False,account,0.9998785316282567,True
+urgent request primary request reset login password for account access also billing invoice payment needs a refund today payment reference 43353,account,account-5,test,True,billing,0.5197296992935093,False
+urgent request primary request reset login password for account access also billing invoice payment needs a refund please investigate account reference 79074,account,account-5,test,True,account,0.9475986985268963,True
+urgent request primary request reset login password for account access today payment reference 38066,account,account-5,test,False,account,0.999540389953413,True
+can someone check primary request reset login password for account access today account reference 94558,account,account-5,test,False,account,0.9999487051530169,True
+hello support primary request reset login password for account access for the second time app reference 10595,account,account-5,test,False,account,0.9998312573247169,True
+hello support primary request reset login password for account access please investigate order reference 38594,account,account-5,test,False,account,0.9998915790110967,True
+urgent request primary request reset login password for account access also app freezes with a technical error since yesterday order reference 85841,account,account-5,test,True,account,0.8977737531927427,True
+hello support primary request reset login password for account access for the second time order reference 13259,account,account-5,test,False,account,0.9998650468604086,True
+can someone check primary request reset login password for account access also app freezes with a technical error for the second time app reference 48992,account,account-5,test,True,account,0.8775929148374954,True
+please help primary request reset login password for account access also billing invoice payment needs a refund please investigate  reference 34711,account,account-5,test,True,account,0.9240047319072761,True
+please help primary request reset login password for account access also app freezes with a technical error today account reference 21238,account,account-5,test,True,account,0.9679151114680443,True
+please help primary request reset login password for account access since yesterday  reference 39616,account,account-5,test,False,account,0.9998843697253256,True
+hello support primary request reset login password for account access also billing invoice payment needs a refund for the second time account reference 54330,account,account-5,test,True,account,0.9272531644674612,True
+can someone check primary request reset login password for account access also billing invoice payment needs a refund today  reference 23189,account,account-5,test,True,account,0.7769522530870194,True
+can someone check primary request reset login password for account access please investigate order reference 58968,account,account-5,test,False,account,0.9998936357387831,True
+can someone check primary request reset login password for account access for the second time  reference 28360,account,account-5,test,False,account,0.9998923064877964,True
+can someone check primary request reset login password for account access for the second time order reference 49372,account,account-5,test,False,account,0.999878758253906,True
+can someone check primary request reset login password for account access today  reference 44120,account,account-5,test,False,account,0.9998490224410829,True
+urgent request primary request reset login password for account access also courier shipping tracking shows no package for the second time account reference 46680,account,account-5,test,True,account,0.9772363959957963,True
+can someone check primary request reset login password for account access today order reference 23426,account,account-5,test,False,account,0.9998035631744396,True
+urgent request primary request reset login password for account access for the second time  reference 39722,account,account-5,test,False,account,0.9998743898209042,True
+please help primary request reset login password for account access please investigate account reference 13102,account,account-5,test,False,account,0.9999808471621244,True
+hello support primary request reset login password for account access also courier shipping tracking shows no package for the second time payment reference 88625,account,account-5,test,True,account,0.9484542913914593,True
+please help primary request reset login password for account access also billing invoice payment needs a refund since yesterday payment reference 63080,account,account-5,test,True,account,0.6283266930260208,False
+hello support primary request reset login password for account access for the second time order reference 40816,account,account-5,test,False,account,0.9998650468604086,True
+urgent request primary request reset login password for account access also courier shipping tracking shows no package for the second time order reference 60681,account,account-5,test,True,account,0.9013250147993692,True
+urgent request primary request reset login password for account access please investigate app reference 76400,account,account-5,test,False,account,0.9998694391604437,True
+hello support primary request reset login password for account access also app freezes with a technical error for the second time  reference 11006,account,account-5,test,True,account,0.8936437579428688,True
+please help primary request app freezes with a technical error since yesterday payment reference 45882,technical,technical-5,test,False,technical,0.9986879254001065,True
+urgent request primary request app freezes with a technical error for the second time order reference 73614,technical,technical-5,test,False,technical,0.9993163261570963,True
+hello support primary request app freezes with a technical error please investigate account reference 21572,technical,technical-5,test,False,technical,0.9983423870782863,True
+urgent request primary request app freezes with a technical error today payment reference 68858,technical,technical-5,test,False,technical,0.9979489874221383,True
+urgent request primary request app freezes with a technical error also courier shipping tracking shows no package please investigate  reference 89317,technical,technical-5,test,True,delivery,0.8922856698401651,True
+urgent request primary request app freezes with a technical error today order reference 82614,technical,technical-5,test,False,technical,0.9978676890324796,True
+urgent request primary request app freezes with a technical error also billing invoice payment needs a refund since yesterday app reference 95296,technical,technical-5,test,True,technical,0.6585495672234557,False
+hello support primary request app freezes with a technical error since yesterday  reference 59711,technical,technical-5,test,False,technical,0.9987502846319146,True
+urgent request primary request app freezes with a technical error please investigate app reference 93711,technical,technical-5,test,False,technical,0.9993034557017163,True
+please help primary request app freezes with a technical error also courier shipping tracking shows no package since yesterday app reference 19212,technical,technical-5,test,True,delivery,0.8330304151174728,True
+urgent request primary request app freezes with a technical error also courier shipping tracking shows no package since yesterday  reference 18381,technical,technical-5,test,True,delivery,0.9398773053312495,True
+urgent request primary request app freezes with a technical error since yesterday payment reference 27105,technical,technical-5,test,False,technical,0.9976276155643412,True
+urgent request primary request app freezes with a technical error also reset login password for account access since yesterday order reference 78608,technical,technical-5,test,True,account,0.8977737531927427,True
+urgent request primary request app freezes with a technical error since yesterday account reference 20213,technical,technical-5,test,False,technical,0.9977440469478652,True
+urgent request primary request app freezes with a technical error for the second time  reference 40422,technical,technical-5,test,False,technical,0.999389464852818,True
+please help primary request app freezes with a technical error since yesterday app reference 26355,technical,technical-5,test,False,technical,0.9994306059406041,True
+hello support primary request app freezes with a technical error also reset login password for account access since yesterday payment reference 84178,technical,technical-5,test,True,account,0.8702115551781099,True
+please help primary request app freezes with a technical error for the second time app reference 25881,technical,technical-5,test,False,technical,0.9997759745377919,True
+can someone check primary request app freezes with a technical error for the second time order reference 72109,technical,technical-5,test,False,technical,0.9989477325046051,True
+please help primary request app freezes with a technical error today payment reference 16044,technical,technical-5,test,False,technical,0.998850950743963,True
+urgent request primary request app freezes with a technical error since yesterday order reference 51531,technical,technical-5,test,False,technical,0.9974463271820145,True
+urgent request primary request app freezes with a technical error for the second time payment reference 84530,technical,technical-5,test,False,technical,0.998934342319409,True
+please help primary request app freezes with a technical error today order reference 47890,technical,technical-5,test,False,technical,0.9987502177025134,True
+hello support primary request app freezes with a technical error also courier shipping tracking shows no package today app reference 27619,technical,technical-5,test,True,delivery,0.8138637143432079,True
+urgent request primary request app freezes with a technical error also reset login password for account access please investigate account reference 23765,technical,technical-5,test,True,account,0.9772136720405787,True
+please help primary request app freezes with a technical error today order reference 16358,technical,technical-5,test,False,technical,0.9987502177025134,True
+can someone check primary request app freezes with a technical error since yesterday order reference 93434,technical,technical-5,test,False,technical,0.996420556229328,True
+hello support primary request app freezes with a technical error for the second time app reference 35481,technical,technical-5,test,False,technical,0.9997097830772397,True
+urgent request primary request app freezes with a technical error please investigate app reference 38764,technical,technical-5,test,False,technical,0.9993034557017163,True
+hello support primary request app freezes with a technical error today app reference 78123,technical,technical-5,test,False,technical,0.9993925846750729,True
+urgent request primary request app freezes with a technical error please investigate order reference 73136,technical,technical-5,test,False,technical,0.9983056209432093,True
+can someone check primary request app freezes with a technical error also reset login password for account access since yesterday account reference 46426,technical,technical-5,test,True,account,0.9780177360517152,True
+can someone check primary request app freezes with a technical error please investigate app reference 97071,technical,technical-5,test,False,technical,0.9989650937118646,True
+please help primary request app freezes with a technical error please investigate account reference 21678,technical,technical-5,test,False,technical,0.9984107886935861,True
+please help primary request app freezes with a technical error please investigate app reference 99767,technical,technical-5,test,False,technical,0.9995413251280267,True
+please help primary request app freezes with a technical error for the second time app reference 17590,technical,technical-5,test,False,technical,0.9997759745377919,True
+hello support primary request app freezes with a technical error since yesterday  reference 56609,technical,technical-5,test,False,technical,0.9987502846319146,True
+can someone check primary request app freezes with a technical error today order reference 63035,technical,technical-5,test,False,technical,0.996988426423359,True
+can someone check primary request app freezes with a technical error for the second time account reference 32529,technical,technical-5,test,False,technical,0.9984254540664664,True
+urgent request primary request app freezes with a technical error since yesterday app reference 11099,technical,technical-5,test,False,technical,0.9990312263745669,True
+please help primary request app freezes with a technical error since yesterday account reference 79497,technical,technical-5,test,False,technical,0.998464736150564,True
+can someone check primary request app freezes with a technical error since yesterday payment reference 81822,technical,technical-5,test,False,technical,0.9964907185463533,True
+please help primary request app freezes with a technical error also courier shipping tracking shows no package today payment reference 50000,technical,technical-5,test,True,delivery,0.8675513547359369,True
+urgent request primary request app freezes with a technical error today app reference 86826,technical,technical-5,test,False,technical,0.9991753304616325,True
+can someone check primary request app freezes with a technical error today order reference 13720,technical,technical-5,test,False,technical,0.996988426423359,True
+urgent request primary request app freezes with a technical error also courier shipping tracking shows no package for the second time  reference 59586,technical,technical-5,test,True,delivery,0.5988519438342088,False
+hello support primary request app freezes with a technical error since yesterday  reference 30746,technical,technical-5,test,False,technical,0.9987502846319146,True
+can someone check primary request app freezes with a technical error please investigate  reference 16085,technical,technical-5,test,False,technical,0.9981120375384892,True
+can someone check primary request app freezes with a technical error also courier shipping tracking shows no package today  reference 33280,technical,technical-5,test,True,delivery,0.9425413835677214,True
+please help primary request app freezes with a technical error please investigate  reference 83042,technical,technical-5,test,False,technical,0.9991477568371381,True
+can someone check primary request app freezes with a technical error since yesterday  reference 17549,technical,technical-5,test,False,technical,0.997532977832533,True
+please help primary request app freezes with a technical error for the second time payment reference 78942,technical,technical-5,test,False,technical,0.9993832944910358,True
+hello support primary request app freezes with a technical error please investigate payment reference 60135,technical,technical-5,test,False,technical,0.9985485046504033,True
+please help primary request app freezes with a technical error please investigate  reference 14675,technical,technical-5,test,False,technical,0.9991477568371381,True
+hello support primary request app freezes with a technical error please investigate account reference 56452,technical,technical-5,test,False,technical,0.9983423870782863,True
+hello support primary request app freezes with a technical error for the second time order reference 31849,technical,technical-5,test,False,technical,0.9994201789580103,True
+can someone check primary request app freezes with a technical error for the second time app reference 99504,technical,technical-5,test,False,technical,0.999482910223802,True
+urgent request primary request app freezes with a technical error for the second time  reference 62988,technical,technical-5,test,False,technical,0.999389464852818,True
+hello support primary request app freezes with a technical error also reset login password for account access since yesterday payment reference 89150,technical,technical-5,test,True,account,0.8702115551781099,True
+please help primary request app freezes with a technical error also courier shipping tracking shows no package today order reference 63147,technical,technical-5,test,True,delivery,0.9245886666866362,True
+please help primary request app freezes with a technical error also courier shipping tracking shows no package since yesterday order reference 75305,technical,technical-5,test,True,delivery,0.9390174336758856,True
+can someone check primary request app freezes with a technical error since yesterday  reference 38809,technical,technical-5,test,False,technical,0.997532977832533,True
+hello support primary request app freezes with a technical error since yesterday account reference 56009,technical,technical-5,test,False,technical,0.9982911372807253,True
+can someone check primary request app freezes with a technical error also courier shipping tracking shows no package for the second time account reference 74811,technical,technical-5,test,True,delivery,0.6961258880518189,False
+please help primary request app freezes with a technical error for the second time order reference 33763,technical,technical-5,test,False,technical,0.9995437468172788,True
+urgent request primary request app freezes with a technical error since yesterday payment reference 49518,technical,technical-5,test,False,technical,0.9976276155643412,True
+urgent request primary request app freezes with a technical error also courier shipping tracking shows no package since yesterday order reference 86296,technical,technical-5,test,True,delivery,0.9656762094071065,True
+can someone check primary request app freezes with a technical error for the second time payment reference 11748,technical,technical-5,test,False,technical,0.9983241289966982,True
+urgent request primary request app freezes with a technical error today payment reference 59547,technical,technical-5,test,False,technical,0.9979489874221383,True
+can someone check primary request app freezes with a technical error today account reference 24708,technical,technical-5,test,False,technical,0.9970246149208798,True
+hello support primary request courier shipping tracking shows no package for the second time order reference 54125,delivery,delivery-5,test,False,delivery,0.9834543908801813,True
+please help primary request courier shipping tracking shows no package since yesterday order reference 81726,delivery,delivery-5,test,False,delivery,0.9986198265967685,True
+urgent request primary request courier shipping tracking shows no package please investigate  reference 83933,delivery,delivery-5,test,False,delivery,0.9959705760304893,True
+please help primary request courier shipping tracking shows no package also app freezes with a technical error please investigate order reference 49113,delivery,delivery-5,test,True,delivery,0.8906093052856888,True
+hello support primary request courier shipping tracking shows no package since yesterday app reference 76017,delivery,delivery-5,test,False,delivery,0.9960763852187884,True
+urgent request primary request courier shipping tracking shows no package also app freezes with a technical error since yesterday account reference 28262,delivery,delivery-5,test,True,delivery,0.9478572737088526,True
+urgent request primary request courier shipping tracking shows no package also app freezes with a technical error please investigate payment reference 80461,delivery,delivery-5,test,True,delivery,0.8871502553463309,True
+urgent request primary request courier shipping tracking shows no package also billing invoice payment needs a refund for the second time order reference 57552,delivery,delivery-5,test,True,billing,0.7353079982840374,False
+please help primary request courier shipping tracking shows no package since yesterday  reference 95341,delivery,delivery-5,test,False,delivery,0.9975580218664983,True
+hello support primary request courier shipping tracking shows no package for the second time app reference 84904,delivery,delivery-5,test,False,delivery,0.9716190593762014,True
+can someone check primary request courier shipping tracking shows no package for the second time order reference 66711,delivery,delivery-5,test,False,delivery,0.9872937464669711,True
+urgent request primary request courier shipping tracking shows no package since yesterday order reference 24842,delivery,delivery-5,test,False,delivery,0.9985278922582158,True
+can someone check primary request courier shipping tracking shows no package for the second time account reference 85548,delivery,delivery-5,test,False,delivery,0.981790952848369,True
+can someone check primary request courier shipping tracking shows no package also app freezes with a technical error for the second time account reference 62563,delivery,delivery-5,test,True,delivery,0.6961258880518189,False
+can someone check primary request courier shipping tracking shows no package also billing invoice payment needs a refund today app reference 67815,delivery,delivery-5,test,True,delivery,0.5331892817426374,False
+please help primary request courier shipping tracking shows no package please investigate payment reference 59107,delivery,delivery-5,test,False,delivery,0.9901667866959167,True
+please help primary request courier shipping tracking shows no package since yesterday account reference 24862,delivery,delivery-5,test,False,delivery,0.9979516264932629,True
+urgent request primary request courier shipping tracking shows no package also reset login password for account access since yesterday account reference 91060,delivery,delivery-5,test,True,account,0.8181057966049191,True
+urgent request primary request courier shipping tracking shows no package please investigate order reference 13978,delivery,delivery-5,test,False,delivery,0.9977200786282708,True
+please help primary request courier shipping tracking shows no package please investigate  reference 58267,delivery,delivery-5,test,False,delivery,0.9961257913039031,True
+please help primary request courier shipping tracking shows no package today app reference 79892,delivery,delivery-5,test,False,delivery,0.9972577162082974,True
+please help primary request courier shipping tracking shows no package for the second time payment reference 59543,delivery,delivery-5,test,False,delivery,0.9547417865551494,True
+hello support primary request courier shipping tracking shows no package also app freezes with a technical error please investigate app reference 46145,delivery,delivery-5,test,True,delivery,0.7438459065043705,False
+please help primary request courier shipping tracking shows no package for the second time app reference 18850,delivery,delivery-5,test,False,delivery,0.9821832088094421,True
+can someone check primary request courier shipping tracking shows no package also app freezes with a technical error since yesterday payment reference 37763,delivery,delivery-5,test,True,delivery,0.9499246625355012,True
+please help primary request courier shipping tracking shows no package for the second time app reference 89339,delivery,delivery-5,test,False,delivery,0.9821832088094421,True
+can someone check primary request courier shipping tracking shows no package for the second time app reference 37991,delivery,delivery-5,test,False,delivery,0.9782917211375658,True
+hello support primary request courier shipping tracking shows no package since yesterday account reference 71273,delivery,delivery-5,test,False,delivery,0.9967742353837405,True
+can someone check primary request courier shipping tracking shows no package please investigate payment reference 91756,delivery,delivery-5,test,False,delivery,0.9873794468943855,True
+urgent request primary request courier shipping tracking shows no package please investigate payment reference 44267,delivery,delivery-5,test,False,delivery,0.989361100904885,True
+please help primary request courier shipping tracking shows no package for the second time  reference 37628,delivery,delivery-5,test,False,delivery,0.9820270846279552,True
+can someone check primary request courier shipping tracking shows no package also billing invoice payment needs a refund today payment reference 26482,delivery,delivery-5,test,True,billing,0.7140031509266314,False
+can someone check primary request courier shipping tracking shows no package please investigate order reference 30782,delivery,delivery-5,test,False,delivery,0.9972983536651411,True
+please help primary request courier shipping tracking shows no package please investigate account reference 77758,delivery,delivery-5,test,False,delivery,0.9965101553463546,True
+please help primary request courier shipping tracking shows no package also reset login password for account access since yesterday account reference 77422,delivery,delivery-5,test,True,account,0.8980712885573529,True
+hello support primary request courier shipping tracking shows no package also app freezes with a technical error today account reference 17201,delivery,delivery-5,test,True,delivery,0.8967445513691118,True
+please help primary request courier shipping tracking shows no package please investigate account reference 83966,delivery,delivery-5,test,False,delivery,0.9965101553463546,True
+hello support primary request courier shipping tracking shows no package for the second time order reference 65467,delivery,delivery-5,test,False,delivery,0.9834543908801813,True
+urgent request primary request courier shipping tracking shows no package today app reference 24184,delivery,delivery-5,test,False,delivery,0.9971202406721309,True
+can someone check primary request courier shipping tracking shows no package please investigate account reference 30109,delivery,delivery-5,test,False,delivery,0.9960085293163763,True
+hello support primary request courier shipping tracking shows no package since yesterday payment reference 42646,delivery,delivery-5,test,False,delivery,0.9892505580355746,True
+urgent request primary request courier shipping tracking shows no package please investigate  reference 99490,delivery,delivery-5,test,False,delivery,0.9959705760304893,True
+please help primary request courier shipping tracking shows no package also app freezes with a technical error today  reference 18129,delivery,delivery-5,test,True,delivery,0.871971787324836,True
+urgent request primary request courier shipping tracking shows no package please investigate app reference 83058,delivery,delivery-5,test,False,delivery,0.9960636083292761,True
+can someone check primary request courier shipping tracking shows no package today payment reference 40494,delivery,delivery-5,test,False,delivery,0.9906389394563362,True
+please help primary request courier shipping tracking shows no package since yesterday  reference 66291,delivery,delivery-5,test,False,delivery,0.9975580218664983,True
+urgent request primary request courier shipping tracking shows no package for the second time payment reference 61398,delivery,delivery-5,test,False,delivery,0.9510441068586296,True
+hello support primary request courier shipping tracking shows no package please investigate order reference 78424,delivery,delivery-5,test,False,delivery,0.996475959585147,True
+urgent request primary request courier shipping tracking shows no package for the second time payment reference 89098,delivery,delivery-5,test,False,delivery,0.9510441068586296,True
+urgent request primary request courier shipping tracking shows no package also reset login password for account access please investigate app reference 77944,delivery,delivery-5,test,True,account,0.8233716344551637,True
+can someone check primary request courier shipping tracking shows no package for the second time payment reference 55705,delivery,delivery-5,test,False,delivery,0.9423707120953496,True
+urgent request primary request courier shipping tracking shows no package today order reference 37022,delivery,delivery-5,test,False,delivery,0.9983317446166003,True
+hello support primary request courier shipping tracking shows no package since yesterday account reference 55429,delivery,delivery-5,test,False,delivery,0.9967742353837405,True
+urgent request primary request courier shipping tracking shows no package today app reference 25658,delivery,delivery-5,test,False,delivery,0.9971202406721309,True
+hello support primary request courier shipping tracking shows no package today order reference 75560,delivery,delivery-5,test,False,delivery,0.9974221741714793,True
+please help primary request courier shipping tracking shows no package today order reference 70383,delivery,delivery-5,test,False,delivery,0.9984282050600672,True
+can someone check primary request courier shipping tracking shows no package today app reference 65960,delivery,delivery-5,test,False,delivery,0.9966033085160326,True
+urgent request primary request courier shipping tracking shows no package since yesterday  reference 56134,delivery,delivery-5,test,False,delivery,0.9974006828021504,True
+can someone check primary request courier shipping tracking shows no package today  reference 94513,delivery,delivery-5,test,False,delivery,0.9965095978461174,True
+hello support primary request courier shipping tracking shows no package for the second time account reference 51604,delivery,delivery-5,test,False,delivery,0.9763222992253591,True
+please help primary request courier shipping tracking shows no package also app freezes with a technical error please investigate payment reference 73649,delivery,delivery-5,test,True,delivery,0.8133405638998632,True
+please help primary request courier shipping tracking shows no package please investigate payment reference 87723,delivery,delivery-5,test,False,delivery,0.9901667866959167,True
+please help primary request courier shipping tracking shows no package also billing invoice payment needs a refund since yesterday app reference 66075,delivery,delivery-5,test,True,delivery,0.6287409016075778,False
+can someone check primary request courier shipping tracking shows no package please investigate order reference 59899,delivery,delivery-5,test,False,delivery,0.9972983536651411,True
+can someone check primary request courier shipping tracking shows no package also reset login password for account access today order reference 35859,delivery,delivery-5,test,True,account,0.6107909363269125,False
+urgent request primary request courier shipping tracking shows no package for the second time payment reference 39890,delivery,delivery-5,test,False,delivery,0.9510441068586296,True
+hello support primary request courier shipping tracking shows no package also app freezes with a technical error please investigate order reference 29392,delivery,delivery-5,test,True,delivery,0.8993834626455989,True
+please help primary request courier shipping tracking shows no package also reset login password for account access for the second time payment reference 20748,delivery,delivery-5,test,True,account,0.9602159487684103,True
+hello support primary request courier shipping tracking shows no package since yesterday  reference 59123,delivery,delivery-5,test,False,delivery,0.9959861474728412,True
+urgent request primary request courier shipping tracking shows no package today  reference 35290,delivery,delivery-5,test,False,delivery,0.9970538941746043,True

@@ -1,0 +1,6 @@
+feature,coefficient
+intercept,-1.6005580442038112
+tenure_months,-0.5362941973427162
+monthly_fee,0.3709916785437331
+support_calls,0.5451664532936522
+usage_hours,-0.37935726398779585

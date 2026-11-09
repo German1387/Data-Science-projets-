@@ -1,0 +1,85 @@
+{
+  "model": {
+    "accuracy": 0.8642857142857143,
+    "macro_f1": 0.8636786627887159,
+    "class_order": [
+      "account",
+      "billing",
+      "delivery",
+      "technical"
+    ],
+    "confusion_matrix": [
+      [
+        69,
+        1,
+        0,
+        0
+      ],
+      [
+        5,
+        56,
+        6,
+        3
+      ],
+      [
+        5,
+        2,
+        63,
+        0
+      ],
+      [
+        5,
+        0,
+        11,
+        54
+      ]
+    ]
+  },
+  "majority_baseline": {
+    "accuracy": 0.25,
+    "macro_f1": 0.1,
+    "class_order": [
+      "account",
+      "billing",
+      "delivery",
+      "technical"
+    ],
+    "confusion_matrix": [
+      [
+        70,
+        0,
+        0,
+        0
+      ],
+      [
+        70,
+        0,
+        0,
+        0
+      ],
+      [
+        70,
+        0,
+        0,
+        0
+      ],
+      [
+        70,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "validation_selected_threshold": 0.7644646464646464,
+  "test_routing_coverage": 0.8892857142857142,
+  "test_accepted_accuracy": 0.9116465863453815,
+  "mixed_intent_test_accuracy": 0.5581395348837209,
+  "single_intent_test_accuracy": 1.0,
+  "vocabulary_size": 77,
+  "split_sizes": {
+    "train": 1120,
+    "validation": 280,
+    "test": 280
+  }
+}

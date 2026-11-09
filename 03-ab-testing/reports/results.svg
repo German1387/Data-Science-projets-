@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="268" role="img" aria-label="Revenue effect per assigned user">
+<rect width="100%" height="100%" fill="#f4f7fc"/>
+<text x="32" y="43" font-family="sans-serif" font-size="23" fill="#132541">Revenue effect per assigned user</text>
+<text x="32" y="72" font-family="sans-serif" font-size="12" fill="#53627b">SYNTHETIC DATA · REPRODUCIBLE RUN · SEED 42</text>
+<text x="32" y="120" font-family="sans-serif" font-size="14">Raw estimate</text>
+<rect x="270" y="100" width="440.0" height="28" rx="4" fill="#2967d7"/>
+<text x="720.0" y="120" font-family="sans-serif" font-size="13">1.723</text>
+<text x="32" y="174" font-family="sans-serif" font-size="14">CUPED estimate</text>
+<rect x="270" y="154" width="410.3" height="28" rx="4" fill="#2967d7"/>
+<text x="690.3" y="174" font-family="sans-serif" font-size="13">1.607</text>
+</svg>
